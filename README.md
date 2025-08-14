@@ -1,9 +1,11 @@
 # Base44 to Supabase Migration SDK
 
-[![CI](https://github.com/Ai-Automators/base44-to-supabase-sdk/workflows/CI/badge.svg)](https://github.com/Ai-Automators/base44-to-supabase-sdk/actions)
-[![codecov](https://codecov.io/gh/Ai-Automators/base44-to-supabase-sdk/branch/main/graph/badge.svg)](https://codecov.io/gh/Ai-Automators/base44-to-supabase-sdk)
-[![npm version](https://badge.fury.io/js/base44-to-supabase-sdk.svg)](https://badge.fury.io/js/base44-to-supabase-sdk)
+[![CI](https://github.com/Ai-Automators/base44-to-supabase-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/Ai-Automators/base44-to-supabase-sdk/actions)
+[![Tests](https://img.shields.io/github/actions/workflow/status/Ai-Automators/base44-to-supabase-sdk/ci.yml?branch=main&label=tests)](https://github.com/Ai-Automators/base44-to-supabase-sdk/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)](https://nodejs.org/)
+[![GitHub issues](https://img.shields.io/github/issues/Ai-Automators/base44-to-supabase-sdk)](https://github.com/Ai-Automators/base44-to-supabase-sdk/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Ai-Automators/base44-to-supabase-sdk)](https://github.com/Ai-Automators/base44-to-supabase-sdk/stargazers)
 
 > **🚀 Need Professional Help?** I offer complete Base44 migration services with zero downtime and guaranteed results. Integration implementations from paid projects are contributed back to the open source codebase. [Get professional migration services →](#-professional-migration-services)
 
