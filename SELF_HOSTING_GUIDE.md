@@ -488,9 +488,9 @@ Migration services start at **$2,500** for standard applications, with custom pr
 
 Ready to discuss your migration? Contact me at:
 
-📧 **Email**: [your-email@domain.com]  
-💬 **Schedule a Call**: [calendly-link or contact method]  
-🔗 **Portfolio**: [your-portfolio-link]
+📧 **Email**: info@ai-automators.org  
+💬 **Schedule a Call**: https://calendly.com/timstew  
+🌐 **Website**: https://ai-automators.org
 
 *Free 30-minute consultation to assess your project and provide a detailed migration plan and timeline.*
 
